@@ -1,0 +1,23 @@
+img {
+    width:180px; /* you can use % */
+    height: 180px;
+}
+
+.player{
+    display: flex;
+    justify-content:flex-start;
+    background-color:rgba(67, 176, 226, 0.356);
+}
+
+.playerTextInfo{
+    margin-left: 10px;
+}
+
+p{
+    color:grey;
+}
+
+#name{
+    color:black;
+    font-weight:bold;
+}

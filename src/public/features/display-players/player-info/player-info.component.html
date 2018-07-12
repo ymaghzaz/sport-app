@@ -1,0 +1,9 @@
+<div class="player">
+  <img src="{{player.cutout}}"  />
+  <div class='playerTextInfo'>
+    <p id='name'>{{player.playerName}}</p>
+    <p>{{player.position}}</p>
+    <p> Birthday : {{player.dateBorn}}</p>
+    <p *ngIf='player.signing'>Price : {{player.signing}}</p>
+  </div>
+</div>
