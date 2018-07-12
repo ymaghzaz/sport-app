@@ -1,3 +1,8 @@
+# Roadmap
+1- lazy loading
+2- Redux / store
+3- autocomplete input league name
+
 # SportApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
