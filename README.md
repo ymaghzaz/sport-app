@@ -1,6 +1,9 @@
 # Roadmap
+
 1- lazy loading
+
 2- Redux / store
+
 3- autocomplete input league name
 
 # SportApp
