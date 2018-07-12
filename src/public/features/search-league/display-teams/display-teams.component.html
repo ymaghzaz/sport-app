@@ -1,0 +1,6 @@
+<div class='teams'>
+    <div  *ngFor="let team of teams"  >
+        <img src={{team.strTeamBadge}} (click)='displayTeamInfo(team)'/>
+      </div>
+</div>
+

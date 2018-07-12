@@ -1,0 +1,8 @@
+<div class="search">
+    <div class="searchHeader">
+            <input type="text" name="league" (keyup)="onKey($event)" id="leagueID"  placeholder="French Ligue 1">
+            <button> cancel</button>
+    </div>
+      
+        <app-display-teams [teams]='teams'></app-display-teams>
+</div>
